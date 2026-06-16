@@ -1,0 +1,2 @@
+# Bundled third-party libraries — excluded from GitHub language stats
+assets/vendor/* linguist-vendored
