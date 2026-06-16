@@ -1,0 +1,12 @@
+# Private, brand-specific build — must NOT be published publicly
+visa-family-finance-platform.html
+
+# Internal / strategy docs
+*.pdf
+
+# Tooling & local config
+.claude/
+
+# OS noise
+.DS_Store
+Thumbs.db
