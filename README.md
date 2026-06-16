@@ -1,4 +1,4 @@
-# Sprout — Family Finance Platform
+# Sprout, Family Finance Platform
 
 A single-file, interactive **concept demo** of a white-label B2B family-banking toolkit — the kind of product a bank could license to launch a GoHenry / Greenlight-style kids' debit-card experience in months instead of years.
 
