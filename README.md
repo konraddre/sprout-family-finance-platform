@@ -31,3 +31,8 @@ Vanilla HTML / CSS / JavaScript. [Chart.js](https://www.chartjs.org/) and [Lucid
 ## Disclaimer
 
 This is a concept demo built for portfolio purposes. It is **not affiliated with, sponsored by, or endorsed by any payment network or bank.** All product names, bank names, people, logos, and figures shown are fictional and for illustration only.
+
+## Further business solution information
+
+Additional documentation, including solution requirements and business revenue opportunities, is available on request!
+For access or collaboration opportunities, please reach out via Linkedin: https://www.linkedin.com/in/konrad-dro/.
