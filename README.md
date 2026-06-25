@@ -2,9 +2,9 @@
 
 A single-file, interactive **concept demo** of a white-label B2B family-banking toolkit: the kind of product a bank could license to launch a GoHenry / Greenlight-style kids' debit-card experience in months instead of years.
 
-Built as a product & front-end design portfolio piece. The whole thing is one HTML file with no build step.
+Built as a product & front-end design portfolio piece. 
 
-👉 **[Open the live demo](https://sprout-family-finance-platform.vercel.app)**, or download `index.html` and open it in any browser.
+👉 **[Check out the demo](https://sprout-family-finance-platform.vercel.app)**.
 
 ## What's inside
 
@@ -22,12 +22,18 @@ Plus light/dark mode, responsive layout, and count-up / chart entry animations.
 
 ## Run it
 
-No server, no install. Open `index.html` in any modern browser. Chart.js and the icon set are inlined, so the app works **fully offline** (web fonts gracefully fall back to system fonts without a connection).
+Just check out the Vercel deployed demo or run `index.html` in any modern browser. Chart.js and the icon set are inlined, so the app works **fully offline**.
 
 ## Tech
 
-Vanilla HTML / CSS / JavaScript. [Chart.js](https://www.chartjs.org/) and [Lucide](https://lucide.dev/) icons are inlined for zero runtime dependencies. Single file, ~700 KB.
+Vanilla HTML / CSS / JavaScript. [Chart.js](https://www.chartjs.org/) and [Lucide](https://lucide.dev/).
 
 ## Disclaimer
 
-This is a concept demo built for portfolio purposes. It is **not affiliated with, sponsored by, or endorsed by any payment network or bank.** All product names, bank names, people, logos, and figures shown are fictional and for illustration only.
+This is a concept demo. It is **not affiliated with, sponsored by, or endorsed by any payment network or bank.** All product names, bank names, people, logos, and figures shown are fictional and for illustration only.
+
+## Further business solution information
+
+Additional documentation, including solution requirements and business revenue opportunities, is available on request.
+For access or collaboration opportunities, please reach out via Linkedin: https://www.linkedin.com/in/konrad-dro/.
+
