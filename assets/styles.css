@@ -455,7 +455,7 @@ input[type="range"] { width: 100%; accent-color: var(--color-primary); height: 6
   background: none;
 }
 .card-style:hover { transform: translateY(-2px); }
-.card-style .cs-face { width: 100%; height: 100%; border-radius: 10px; position: relative; overflow: hidden; }
+.card-style .cs-face { display: block; width: 100%; height: 100%; border-radius: 10px; position: relative; overflow: hidden; }
 .card-style .cs-name { position: absolute; bottom: 6px; left: 8px; font-size: 9px; font-weight: 700; font-style: italic; font-family: var(--font-display); color: rgba(255,255,255,.9); letter-spacing: .5px; }
 .card-style[aria-pressed="true"] { border-color: var(--color-primary); }
 .card-style[aria-pressed="true"]::after {
